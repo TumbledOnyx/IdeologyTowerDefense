@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TowerUpgradeMenu
+  - TowerHealthBar
+  - Tower
+  - Enemy
+  - Path
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TowerPlacementBounds
+  - Range
+  - Enemy
+  - Projectiles
+  - Ignore All
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4277132741
+    locked: 0
+  - name: Map
+    uniqueID: 3498484641
+    locked: 0
+  - name: Path
+    uniqueID: 490912553
+    locked: 0
+  - name: Enemies
+    uniqueID: 914015331
+    locked: 0
+  - name: Range
+    uniqueID: 1513687247
+    locked: 0
+  - name: Towers
+    uniqueID: 3053227553
+    locked: 0
+  - name: UI
+    uniqueID: 2409564037
+    locked: 0
+  - name: Projectiles
+    uniqueID: 4283476155
+    locked: 0

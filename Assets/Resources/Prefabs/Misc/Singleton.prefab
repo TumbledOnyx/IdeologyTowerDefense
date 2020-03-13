@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8009075236035743332
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8009075236035743334}
+  - component: {fileID: 8009075236035743333}
+  m_Layer: 0
+  m_Name: Singleton
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8009075236035743334
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8009075236035743332}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.3458476, y: -0.3911564, z: -3.3105469}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8009075236035743333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8009075236035743332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0193b07988fb0384dbc540104f1481ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AccelerationistUnlocked: 0
+  AnCapUnlocked: 0
+  AnComUnlocked: 0
+  AnMonarchistUnlocked: 0
+  AnPrimUnlocked: 1
+  AnSyndUnlocked: 0
+  ClassicalLiberalUnlocked: 0
+  CommunistUnlocked: 0
+  DemSocUnlocked: 0
+  FascistUnlocked: 0
+  MutualistUnlocked: 0
+  NazBolUnlocked: 0
+  NaziUnlocked: 0
+  PlatformistUnlocked: 0
+  PosadistUnlocked: 0
+  AccelerationistCost: 200
+  AnCapCost: 400
+  AnComCost: 500
+  AnMonarchistCost: 2000
+  AnPrimCost: 100
+  AnSyndCost: 600
+  ClassicalLiberalCost: 300
+  CommunistCost: 300
+  DemSocCost: 600
+  FascistCost: 200
+  MutualistCost: 500
+  NazBolCost: 800
+  NaziCost: 1000
+  PlatformistCost: 500
+  PosadistCost: 2500
+  AccelerationistHealth: 100
+  AnCapHealth: 100
+  AnComHealth: 100
+  AnMonarchistHealth: 100
+  AnPrimHealth: 100
+  AnSyndHealth: 100
+  ClassicalLiberalHealth: 100
+  CommunistHealth: 100
+  DemSocHealth: 100
+  FascistHealth: 100
+  MutualistHealth: 100
+  NazBolHealth: 100
+  NaziHealth: 100
+  PlatformistHealth: 100
+  PosadistHealth: 100
+  AnMonarchistAttackDamage: 0
+  AnPrimAttackDamage: 3
+  ClassicalLiberalAttackDamage: 0
+  CommunistAttackDamage: 0
+  DemSocAttackDamage: 0
+  FascistAttackDamage: 0
+  NazBolAttackDamage: 0
+  NaziAttackDamage: 0
+  AnComSpeed: 0
+  AnMonarchistSpeed: 0
+  AnPrimSpeed: 1
+  ClassicalLiberalSpeed: 0
+  CommunistSpeed: 0
+  DemSocSpeed: 0
+  FascistSpeed: 0
+  NazBolSpeed: 0
+  AccelerationistRange: 0
+  AnComRange: 0
+  AnMonarchistRange: 0
+  AnPrimRange: 4
+  AnSyndRange: 0
+  ClassicalLiberalRange: 0
+  CommunistRange: 0
+  FascistRange: 0
+  MutualistRange: 0
+  NazBolRange: 0
+  NaziRange: 0
+  PlatformistRange: 0
+  PosadistRange: 0
